@@ -1,0 +1,22 @@
+.category-title {
+  margin: 40px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.category-title h2 {
+  width: 40%;
+  text-align: center;
+  border-bottom: 5px solid #e6b31e;
+  line-height: 0.1em;
+  margin: 100px 100px;
+}
+
+.category-title h2 span {
+  font-size: 30px;
+  font-weight: 500;
+  color: #343434;
+  background: #fff;
+  padding: 80px;
+}
