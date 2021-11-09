@@ -1,9 +1,9 @@
-import "./who.css";
+import "./Who.css";
 import Title from "../../../components/Title";
 import WhoElement from "./WhoElement";
 export default function Who() {
   return (
-    <div className="who">
+    <div className="who" id="who">
       <Title title="Who We Are" />
       <div className="who-elements">
         <WhoElement

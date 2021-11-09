@@ -10,7 +10,8 @@
   text-align: center;
   border-bottom: 5px solid #e6b31e;
   line-height: 0.1em;
-  margin: 100px 100px;
+  margin: 100px;
+  margin-bottom: 20px;
 }
 
 .category-title h2 span {

@@ -1,12 +1,14 @@
 .who {
   align-items: center;
 }
+
 .who .who-elements {
   margin: 0px 40px;
   display: flex;
   justify-content: space-evenly;
   align-items: flex-start;
 }
+
 .who .who-text {
   margin-top: 60px;
   display: inline-block;

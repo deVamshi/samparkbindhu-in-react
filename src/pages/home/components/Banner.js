@@ -1,7 +1,7 @@
-import "./banner.css";
+import "./Banner.css";
 export default function Banner() {
   return (
-    <div className="banner">
+    <div className="banner" id="banner">
       {/* <div>This is text</div> */}
       <img src="./banner.jpg" alt="" />
       <h1>Scroll</h1>
