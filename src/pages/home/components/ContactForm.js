@@ -39,7 +39,7 @@ export default function ContactForm() {
             offset: formLayout.labelCol.span,
           }}
         >
-          <Button type="primary" htmlType="submit" block of>
+          <Button type="primary" htmlType="submit" block>
             Submit
           </Button>
         </Form.Item>
