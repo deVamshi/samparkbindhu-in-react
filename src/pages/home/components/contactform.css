@@ -1,0 +1,23 @@
+.contact-form {
+  background-color: #f9f9f9;
+  padding: 40px;
+  margin-left: 40px;
+}
+
+.contact-form p {
+  margin-bottom: 25px;
+  font-size: 16px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+}
+
+.contact-form label {
+  font-size: 16px;
+  color: #333;
+}
+.contact-form input,
+.contact-form button {
+  flex-basis: auto;
+  height: 35px;
+}

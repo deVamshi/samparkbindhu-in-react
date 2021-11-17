@@ -1,0 +1,45 @@
+.team-element {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.team-element div {
+  flex-basis: auto;
+}
+
+.team-element img {
+  margin-top: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 180px;
+  height: 180px;
+}
+
+.team-element h3 {
+  margin-top: 10px;
+  font-size: 22px;
+  font-weight: 500;
+  color: #343434;
+}
+
+.team-element .designation {
+  color: #343434;
+  font-size: 18px;
+}
+
+.team-element .text {
+  flex-basis: auto;
+  max-width: 1100px;
+  color: #343434;
+  font-size: 16px !important;
+  text-align: left;
+  font-weight: 400;
+  white-space: pre-line;
+}
+
+.team-element .text {
+  margin-left: 60px;
+}

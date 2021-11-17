@@ -1,0 +1,24 @@
+.who {
+  align-items: center;
+}
+
+.who .who-elements {
+  margin: 0px 40px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.who .who-text {
+  margin-top: 60px;
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #343434;
+}
+
+.who .who-text strong {
+  color: #e6b31e;
+}

@@ -1,0 +1,38 @@
+.contact-wrapper {
+  margin-bottom: 80px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact div {
+  flex-basis: 80%;
+}
+
+.contact .contact-details .contact-item {
+  margin-bottom: 40px;
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.contact .contact-details .contact-item i {
+  color: #e6b31e;
+  margin: 0px;
+  font-size: 30px;
+  text-align: start;
+}
+.contact .contact-details .contact-item div {
+  margin: 0px;
+  font-size: 16px;
+  text-align: start;
+  display: inline;
+  flex-wrap: wrap;
+  font-weight: 600;
+  white-space: pre-line;
+  margin-left: 20px;
+}

@@ -1,0 +1,25 @@
+.banner {
+    background-image: url("https://samparkbindhu.com/images/new%20%e2%80%93%202.jpg?crc=3977201642");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:200px;
+  }
+  
+  .banner img {
+    opacity: 0;
+  }
+  
+  .banner h1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  
+  .banner i {
+    font-size: 35px;
+    color: white;
+  }
+  
