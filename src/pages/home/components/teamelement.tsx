@@ -1,3 +1,4 @@
+import React from 'react'
 import "./teamelement.css";
 interface param {
   text: string;

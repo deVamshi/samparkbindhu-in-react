@@ -9,7 +9,7 @@ import engageLogo from "../../../assets/images/engage-logo.jpg";
 import { Typography } from "antd";
 import { Row, Col, Image } from "antd";
 
-const { Title: AntTitle, Text, Paragraph } = Typography;
+const { Title: AntTitle, Paragraph } = Typography;
 
 export default function whatweoffer() {
   return (
@@ -23,7 +23,7 @@ export default function whatweoffer() {
         <Col span={12}>
           <Row align="middle" justify="start">
             <Col>
-              <img src={vikasLogo} style={{ display: "inline" }} />
+              <img src={vikasLogo} style={{ display: "inline" }}  alt=""/>
             </Col>
             <Col flex={"auto"}>
               <AntTitle
@@ -83,7 +83,7 @@ export default function whatweoffer() {
                   <li>Enable a Win Win for Both the farmer and the buyer</li>
                 </ul>
                 Visit at:{" "}
-                <a href="https://vikasbandhu.in/" target="_blank">
+                <a href="https://vikasbandhu.in/" >
                   <strong> vikasbandhu.in</strong>
                 </a>
               </Paragraph>
@@ -96,7 +96,7 @@ export default function whatweoffer() {
         <Col span={12}>
           <Row align="middle" justify="start">
             <Col>
-              <img src={engageLogo} style={{ display: "inline" }} />
+              <img src={engageLogo} style={{ display: "inline" }} alt="logo" />
             </Col>
             <Col flex={"auto"}>
               <AntTitle

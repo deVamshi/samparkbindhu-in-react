@@ -1,3 +1,4 @@
+import React from 'react'
 import "./who.css";
 import WhoElement from "./whoelement";
 import Title from "../../../components/title";

@@ -1,7 +1,7 @@
 import { Form, Input, Button } from "antd";
 import "antd/dist/antd.css";
 import "./contactform.css";
-
+import React from 'react'
 export default function ContactForm() {
   const formLayout = {
     wrapperCol: {

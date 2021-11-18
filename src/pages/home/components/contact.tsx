@@ -1,3 +1,4 @@
+import React from 'react'
 import Title from "../../../components/title";
 import "./contact.css";
 import ContactForm from "./contactform";

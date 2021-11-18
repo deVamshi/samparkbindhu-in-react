@@ -1,5 +1,5 @@
 import "./team.css";
-
+import React from 'react'
 import Title from "../../../components/title";
 import TeamElement from "./teamelement";
 // import { Row, Col } from "antd";
